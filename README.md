@@ -3,10 +3,10 @@ r/dailyprogammer challenge [EASY]
 
 https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/
 
----------------------------------------------------
 Problem Info:
 ---------------------------------------------------
-Description
+
+Description 
 No more hiding from your alarm clock! You've decided you want your computer to keep you updated on the time so you're never late again. A talking clock takes a 24-hour time and translates it into words.
 
 Input Description
@@ -34,7 +34,6 @@ It's nine pm
 Extension challenges (optional)
 Add voice: http://steve-audio.net/voices/
 
----------------------------------------------------
 Solution Info:
 ---------------------------------------------------
 
