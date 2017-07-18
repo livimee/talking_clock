@@ -36,8 +36,6 @@ def time_to_text(time):
 
 	print(time_text)
 
-
-
-
-time_to_text("11:34")
+time = raw_input("Enter time: ")
+time_to_text(time)
 
