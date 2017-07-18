@@ -60,4 +60,5 @@ Add voice: http://steve-audio.net/voices/
 Solution Info:
 ---------------------------------------------------
 
+inflect.py: https://pypi.python.org/pypi/inflect
 
