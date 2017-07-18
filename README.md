@@ -29,6 +29,12 @@ The time in words, using 12-hour format followed by am or pm.
 
 12:05
 
+14:01
+
+20:29
+
+21:00
+
 
 **Sample Output data:**
 
