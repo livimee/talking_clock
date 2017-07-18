@@ -37,7 +37,7 @@ def time_to_text(time):
 		minute_text = p.number_to_words(minute) + " "
 	
 	# Concatonates full time statement
-	time_text = hour_text + minute_text + meridiem
+	time_text = "It's " + hour_text + minute_text + meridiem
 
 	print(time_text)
 
