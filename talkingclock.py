@@ -38,8 +38,11 @@ def time_to_text(time):
 	else:
 		minute_text = p.number_to_words(minute) + " "
 
-	# Combines and returns full time statement
+	# Combines full time statement
 	time_text = "It is" + hour_text + minute_text + meridiem
+	
+	# Prints and returns time statement 
+	print(time_text)
 	return time_text
 
 # Accesses and formats current time
