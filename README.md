@@ -82,4 +82,8 @@ pip install -e git+https://github.com/pwdyson/inflect.py#egg=inflect
 
 **? ? ?**
 
+The number to word part isn't necessary for the speech part.
+
+I could simplify it by just keeping the numbers in string format (i.e. "12")
+
 PROBABLY ONLY WORKS ON MAC ATM
