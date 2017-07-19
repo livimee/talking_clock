@@ -1,4 +1,7 @@
 # Talking Clock
+# Converts and recites the current time.
+#
+# Based on r/dailyprogrammer challenge
 
 import inflect
 import subprocess
@@ -6,6 +9,7 @@ from datetime import datetime
 
 p = inflect.engine()
 
+# Converts time to words
 def time_to_text(time):
 	time = time.split(":")
 
