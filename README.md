@@ -81,3 +81,5 @@ export PATH="/usr/local/opt/python/libexec/bin:$PATH"
 pip install -e git+https://github.com/pwdyson/inflect.py#egg=inflect
 
 **? ? ?**
+
+PROBABLY ONLY WORKS ON MAC ATM
