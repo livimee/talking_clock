@@ -59,6 +59,25 @@ Add voice: http://steve-audio.net/voices/
 
 Solution Info:
 ---------------------------------------------------
+**Modules used:**
 
 inflect.py: https://pypi.python.org/pypi/inflect
+(to convert numbers to words)
 
+subprocess
+(to access os speech function)
+
+datetime
+(to access current time)
+
+
+**? ? ?**
+
+Doesn't work unless these commands are executed in terminal first:
+
+
+export PATH="/usr/local/opt/python/libexec/bin:$PATH"
+
+pip install -e git+https://github.com/pwdyson/inflect.py#egg=inflect
+
+**? ? ?**
